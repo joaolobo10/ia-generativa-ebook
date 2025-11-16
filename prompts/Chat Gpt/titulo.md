@@ -1,0 +1,1 @@
+Crie um título de um ebook sobre o tema de java, o ebook é do nicho de programação e o subnicho é de Java, o título deve ser épico e curto, e tenha uma temática de Dragon Ball Z no título, me liste 5 variações de títulos.

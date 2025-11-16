@@ -1,0 +1,1 @@
+"Minimalist anime-style illustration of a cheerful young warrior with spiky hair flying calmly on a small golden cloud, holding an open laptop and typing code, soft pastel colors, clean composition, wide empty space, serene sky background with light gradients, gentle glow around the character, smooth lines, simple shapes, peaceful and inspiring mood, no text, digital art"
