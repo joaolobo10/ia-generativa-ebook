@@ -1,4 +1,4 @@
-# ia-generativa-ebook
+# Projeto EBOOK Gerado por I.A.s
 
 -------
 
@@ -8,8 +8,6 @@
     width="400"  
 />
 </p>
-
-# Projeto EBOOK Gerado por I.A.s
 
 ## 💻 Tecnologias utilizadas no projeto
 
